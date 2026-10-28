@@ -1,0 +1,6 @@
+{
+  "name": "LUXORA AI — Premium AI Website Builder",
+  "description": "Transform natural language prompts into production-ready websites with live multi-device preview, visual & code editing, and full source code ZIP export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
